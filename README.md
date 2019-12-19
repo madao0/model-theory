@@ -1,2 +1,2 @@
 # model-theory
-Machine Learning: Model theories and examples
+Machine Learning: Model theories and practices
